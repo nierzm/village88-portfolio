@@ -76,7 +76,7 @@ img {
         margin: 0px;
         border-style: none;
     }
-    .skills .la_mode {
+.la_mode {
         display: inline-block;
         background-image: linear-gradient(to right, #f9f7fa , #dccbd6);
         width: 280px;
@@ -85,14 +85,14 @@ img {
         height: 600px;
         vertical-align: top;
     }
-    .skills .family_contacts {
+.family_contacts {
         display: inline-block;
         background-image: linear-gradient(to right, #f9f7fa , #dccbd6);
         width: 280px;
         margin: 15px 15px 0px 0px;
         height: 600px;
     }
-    .skills .five_eleven {
+.five_eleven {
         display: inline-block;
         background-image: linear-gradient(to right, #f9f7fa , #dccbd6);
         width: 280px;
