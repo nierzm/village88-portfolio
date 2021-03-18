@@ -1,0 +1,161 @@
+.container {
+    background-color: #f9f9f9;
+    width: 910px;
+    min-height: 1000px;
+    margin: 0px auto;
+}
+header {
+    display: inline-block;
+    width: 840px;
+    margin: 0px;
+    padding: 5px;
+}
+    header h1 {
+        display: inline-block;
+        width: 480px;
+        margin: 10px;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+    }
+    header ul {
+        display: inline-block;
+    }
+    header ul li {
+        list-style-type: none;
+        display: inline-block;
+        font-weight: bold;
+        font-size: 18px;
+    }
+.main {
+    background-color: #5f4d55;
+    height: 925px;
+    padding: 0px;
+}
+    .main h3 {
+        background: linear-gradient(#b7b1b6, #888693, #b7b1b6);
+        color: white;
+        padding: 5px;
+        margin: 0px;
+    }
+    .main p {
+        padding: 10px;
+        margin: 0px;
+    }
+
+.info {
+    display: inline-block;
+    height: 270px;
+	width: 520px;
+    padding: 10px;
+}
+img {
+    display: inline-block;
+    height: 250px;
+    width: 360px;
+    border: 5px solid #c2c0c1;
+    margin: 15px 0px 15px 15px;
+}
+.about {
+        display: inline-block;
+        height: 260px;
+        width: 490px;
+        background-image: linear-gradient(to right, #f9f7fa , #dccbd6);
+        vertical-align: top;
+        margin: 15px;
+        padding: 0px;
+    }
+    .about a {
+        padding: 10px;
+    }
+.skills {
+    display: inline-block;
+}
+    .skills img {
+        height: 160px;
+        width:280px;
+        padding: 0px;
+        margin: 0px;
+        border-style: none;
+    }
+    .skills .la_mode {
+        display: inline-block;
+        background-image: linear-gradient(to right, #f9f7fa , #dccbd6);
+        width: 280px;
+        margin: 15px 15px 0px 15px;
+        margin-bottom: 45px;
+        height: 600px;
+        vertical-align: top;
+    }
+    .skills .family_contacts {
+        display: inline-block;
+        background-image: linear-gradient(to right, #f9f7fa , #dccbd6);
+        width: 280px;
+        margin: 15px 15px 0px 0px;
+        height: 600px;
+    }
+    .skills .five_eleven {
+        display: inline-block;
+        background-image: linear-gradient(to right, #f9f7fa , #dccbd6);
+        width: 280px;
+        margin: 15px 0px;
+        height: 600px;
+        vertical-align: top;
+    }
+.tech {
+    display: inline-block;
+    margin-top: 10px;
+}
+    .tech img {
+        border-style: none;
+        height: 40px;
+        width: 40px;
+        margin-left: 8px;
+    }
+    .tech a {
+        color:  white;
+        text-decoration: none;
+        display: inline-block;
+        background: #417d62;
+        border-radius: 20px;
+        padding: 4px;
+        border: 1px solid black;
+        box-shadow: 3px 3px 3px 0px #919792;
+        margin: 20px 0px 0px 95px;
+    }
+    .tech .icons {
+        text-align: left;
+        padding-top: 10px;
+    }
+.la_mode .tech h3 {
+    margin-top: 55px;
+}
+.family_contacts .tech h3 {
+    margin-top: 20px;
+}
+.footer {
+    text-align: center;
+    display: inline-block;
+    width: 910px;
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+}
+    .footer img {
+        border-style: none;
+        width: 15px;
+        height: 15px;
+        margin: 0px;
+        display: inline-block;
+        padding-right: 1px;
+    }
+    .footer ul li {
+        list-style-type: none;
+        display: inline;
+        padding-bottom: 10px;
+    }
+    .footer p {
+        padding: 0px;
+    }
+    .footer a {
+        font-style: italic;
+        color: black;
+    }
